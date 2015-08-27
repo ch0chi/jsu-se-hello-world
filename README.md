@@ -1,4 +1,3 @@
-Michael Quattrochi
 Hello World
 ===========
 
